@@ -1,0 +1,10 @@
+
+identificadores 1- https://www.edaplayground.com/x/s7g9
+identificador 2 - https://www.edaplayground.com/x/GFRC
+ordenadores e mediana - https://www.edaplayground.com/x/WWkE
+Log base 2 -https://www.edaplayground.com/x/73VX
+huffman- https://www.edaplayground.com/x/w8Pz
+Sobel- https://www.edaplayground.com/x/Urfw
+FFT ( Que não é um codigo meu é apenas para demonstração) -https://www.edaplayground.com/x/3mKR
+Meu git hub - https://github.com/superarmax?tab=repositories
+Filtro passa-baixa - https://everycircuit.com/circuit/5272692590379008/filtro-passa-baixa-ativo
