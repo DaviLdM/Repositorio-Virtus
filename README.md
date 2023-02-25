@@ -15,6 +15,7 @@ This is a repository made to show the resolution of all Virtus challenges, using
 #### The Description of the challenges are in the images below
 
 ![image](https://user-images.githubusercontent.com/96848397/221369417-2540de14-81ad-4df1-b8e9-40e82262836e.png)
+---------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/96848397/221369427-01d64a03-7ec8-4b4f-a813-51276a77533c.png)
 ![image](https://user-images.githubusercontent.com/96848397/221369442-404b9972-7f68-41ec-9e87-5971bf1f8eef.png)
 ![image](https://user-images.githubusercontent.com/96848397/221369449-8f1fcb70-73e1-4cec-9955-e4873c2f70fa.png)
